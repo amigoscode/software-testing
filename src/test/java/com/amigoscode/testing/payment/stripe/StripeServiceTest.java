@@ -1,4 +1,4 @@
-package com.amigoscode.testing.payment.stirpe;
+package com.amigoscode.testing.payment.stripe;
 
 import com.amigoscode.testing.payment.CardPaymentCharge;
 import com.amigoscode.testing.payment.Currency;
